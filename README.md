@@ -51,3 +51,54 @@ select screen_name, co2_budget, co2_consumed, (co2_budget - co2_consumed) As co2
 
 <img width="807" alt="Q10" src="https://github.com/user-attachments/assets/7e585daf-39fe-4cde-9e6a-e6859e164568">
 
+
+
+#Exercise 3
+
+Q1
+
+<img width="693" alt="Screenshot 2024-09-27 at 10 35 00 AM" src="https://github.com/user-attachments/assets/4865de31-316a-4415-9472-dd8e924485d5">
+
+Q2
+
+<img width="720" alt="Screenshot 2024-09-27 at 10 37 28 AM" src="https://github.com/user-attachments/assets/d2ad3bd8-360f-4420-aa27-28ecbb7cef21">
+
+Q3
+
+<img width="665" alt="Screenshot 2024-09-27 at 10 40 32 AM" src="https://github.com/user-attachments/assets/58eb40b1-b40a-4d26-aeed-62bfdc84ec83">
+
+Q4
+
+<img width="425" alt="Screenshot 2024-09-27 at 10 44 50 AM" src="https://github.com/user-attachments/assets/1c29932e-aa93-4a82-aea8-e7dce91edb50">
+
+
+Q5
+
+<img width="496" alt="Screenshot 2024-09-27 at 10 46 36 AM" src="https://github.com/user-attachments/assets/69786749-cb60-461d-bb7d-5e558dde1bd9">
+
+
+Q6
+
+<img width="471" alt="Screenshot 2024-09-27 at 10 48 10 AM" src="https://github.com/user-attachments/assets/0aa18347-f572-4036-a89d-b8327a529837">
+
+Q7
+
+<img width="726" alt="Screenshot 2024-09-27 at 10 50 58 AM" src="https://github.com/user-attachments/assets/190c3bd0-773a-4838-bb04-dd788d35725d">
+
+Q8
+
+<img width="504" alt="Screenshot 2024-09-27 at 10 52 31 AM" src="https://github.com/user-attachments/assets/e3e8a24a-3b04-4bca-8603-c6b5aa1a0211">
+
+Q9
+
+
+<img width="725" alt="Screenshot 2024-09-27 at 10 53 07 AM" src="https://github.com/user-attachments/assets/f29c3ddd-c46d-4e45-8ebd-b0b18e55f7ee">
+
+
+Q10
+
+<img width="721" alt="Screenshot 2024-09-27 at 10 54 01 AM" src="https://github.com/user-attachments/assets/b78bfe38-211e-4b2a-a6c2-6060469aef81">
+
+
+
+
