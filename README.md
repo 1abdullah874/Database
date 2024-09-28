@@ -241,8 +241,34 @@ Q10
 
 <img width="259" alt="Screenshot 2024-09-28 at 1 36 25 PM" src="https://github.com/user-attachments/assets/96248d68-167b-45ea-a980-dc81d3a9ea2f">
 
+#exercise 7
+
+Q1
+
+<img width="771" alt="Screenshot 2024-09-28 at 11 13 50 PM" src="https://github.com/user-attachments/assets/6f7c383d-c0c7-4d98-a034-af2fd7dd8f1b">
 
 
+
+
+
+Q2
+
+
+A. goal_reached
+
+
+
+
+Q3
+
+<img width="363" alt="Screenshot 2024-09-28 at 11 18 29 PM" src="https://github.com/user-attachments/assets/27a3601d-1594-44b4-88f4-eb0b40fd1f4a">
+
+
+
+
+Q4
+
+<img width="339" alt="Screenshot 2024-09-28 at 11 18 39 PM" src="https://github.com/user-attachments/assets/aa92dab6-895d-4d5f-8b9e-fee9cab7d701">
 
 
 
