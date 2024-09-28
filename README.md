@@ -127,4 +127,30 @@ Q5
 
 <img width="702" alt="Screenshot 2024-09-27 at 2 33 46 PM" src="https://github.com/user-attachments/assets/49e2d55d-7c3b-41df-9b32-35d2277c859a">
 
+#exercise 5
+
+Q1
+
+<img width="289" alt="Screenshot 2024-09-28 at 12 47 58 PM" src="https://github.com/user-attachments/assets/fd5f5398-48d3-464b-b57b-67c593412766">
+
+Q2
+
+<img width="776" alt="Screenshot 2024-09-28 at 12 50 04 PM" src="https://github.com/user-attachments/assets/f0d88103-1c29-4b08-81af-e17130f05c07">
+
+Q3
+
+<img width="328" alt="Screenshot 2024-09-28 at 12 51 00 PM" src="https://github.com/user-attachments/assets/a0393a0a-908c-4ddb-945e-f2b452eb8526">
+
+
+Q4
+
+<img width="331" alt="Screenshot 2024-09-28 at 12 51 33 PM" src="https://github.com/user-attachments/assets/be2d9ec6-2583-4910-8c35-0bc2a630008f">
+
+
+
+Q5
+
+<img width="557" alt="Screenshot 2024-09-28 at 12 52 05 PM" src="https://github.com/user-attachments/assets/aebbe57a-d2a5-4169-89ed-004890047700">
+
+
 
