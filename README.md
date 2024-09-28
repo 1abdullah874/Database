@@ -153,4 +153,110 @@ Q5
 <img width="557" alt="Screenshot 2024-09-28 at 12 52 05 PM" src="https://github.com/user-attachments/assets/aebbe57a-d2a5-4169-89ed-004890047700">
 
 
+#exercise 6
+
+Q1
+
+<img width="444" alt="Screenshot 2024-09-28 at 1 00 17 PM" src="https://github.com/user-attachments/assets/5906b63e-3e1b-483d-b3a7-3d0f4747443a">
+
+
+Q2
+
+
+
+
+<img width="598" alt="Screenshot 2024-09-28 at 1 03 42 PM" src="https://github.com/user-attachments/assets/48c6aa1e-9f43-4c52-a606-704255f18507">
+
+
+
+Q3
+
+<img width="776" alt="Screenshot 2024-09-28 at 1 05 43 PM" src="https://github.com/user-attachments/assets/0ccf8ffa-eddf-455c-8f93-9c6738c396f2">
+
+
+
+
+
+Q4
+
+
+<img width="299" alt="Screenshot 2024-09-28 at 1 06 27 PM" src="https://github.com/user-attachments/assets/9da5c44d-af7c-4ea3-9f81-2aa37ad1232e">
+
+
+
+
+
+Q5
+
+
+<img width="776" alt="Screenshot 2024-09-28 at 1 09 59 PM" src="https://github.com/user-attachments/assets/5631e354-0b1d-44c4-9024-35f906270cb4">
+
+
+
+
+
+Q6
+
+
+<img width="774" alt="Screenshot 2024-09-28 at 1 12 07 PM" src="https://github.com/user-attachments/assets/102934a0-2dce-46aa-8e44-f43d61c3e2d5">
+
+
+
+
+
+Q7
+
+
+
+<img width="775" alt="Screenshot 2024-09-28 at 1 13 51 PM" src="https://github.com/user-attachments/assets/6814c672-cd24-447e-b69c-c2801f1b98d1">
+
+
+
+
+
+
+Q8
+
+<img width="266" alt="Screenshot 2024-09-28 at 1 16 01 PM" src="https://github.com/user-attachments/assets/733f9b06-6e83-4b1d-a89c-3b5eec4c647a">
+
+
+
+
+
+
+Q9
+
+
+<img width="766" alt="Screenshot 2024-09-28 at 1 18 00 PM" src="https://github.com/user-attachments/assets/eb2914bc-5871-45ef-ab43-0117780791e9">
+
+
+
+
+
+
+
+Q10
+
+
+
+<img width="259" alt="Screenshot 2024-09-28 at 1 36 25 PM" src="https://github.com/user-attachments/assets/96248d68-167b-45ea-a980-dc81d3a9ea2f">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
